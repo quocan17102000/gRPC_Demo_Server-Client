@@ -1,0 +1,86 @@
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.exe
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.deps.json
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.runtimeconfig.json
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.runtimeconfig.dev.json
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.pdb
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.Views.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.Views.pdb
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.AssemblyReference.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.AssemblyInfoInputs.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.AssemblyInfo.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorAssemblyInfo.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorAssemblyInfo.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\scopedcss\bundle\WebApplicationClient.styles.css
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\staticwebassets\WebApplicationClient.StaticWebAssets.Manifest.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.TagHelpers.input.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.TagHelpers.output.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorCoreGenerate.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorTargetAssemblyInfo.cs
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.Views.pdb
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.CopyComplete
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\refint\WebApplicationClient.dll
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.pdb
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.genruntimeconfig.cache
+D:\Visual Studio\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\ref\WebApplicationClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\appsettings.Development.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\appsettings.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.exe
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.deps.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.runtimeconfig.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.runtimeconfig.dev.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\ref\WebApplicationClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.Views.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\WebApplicationClient.Views.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Google.Protobuf.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.AssemblyReference.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.AssemblyInfoInputs.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.AssemblyInfo.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.CoreCompileInputs.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.MvcApplicationPartsAssemblyInfo.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorAssemblyInfo.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorAssemblyInfo.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\scopedcss\bundle\WebApplicationClient.styles.css
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\staticwebassets\WebApplicationClient.StaticWebAssets.Manifest.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.TagHelpers.input.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.TagHelpers.output.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorCoreGenerate.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorTargetAssemblyInfo.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.RazorTargetAssemblyInfo.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.Views.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.csproj.CopyComplete
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\ref\WebApplicationClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\WebApplicationClient\obj\Debug\net5.0\WebApplicationClient.genruntimeconfig.cache

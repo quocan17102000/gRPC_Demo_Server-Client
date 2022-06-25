@@ -1,0 +1,126 @@
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.exe
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.deps.json
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.runtimeconfig.json
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.runtimeconfig.dev.json
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Humanizer.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.AssemblyReference.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.AssemblyInfoInputs.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.AssemblyInfo.cs
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\scopedcss\bundle\GrpcServicedemo.styles.css
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\staticwebassets\GrpcServicedemo.StaticWebAssets.Manifest.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.CopyComplete
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\refint\GrpcServicedemo.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.pdb
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.genruntimeconfig.cache
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\ref\GrpcServicedemo.dll
+D:\Visual Studio\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\FluentAssertions.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\appsettings.Development.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\appsettings.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.exe
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.deps.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.runtimeconfig.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.runtimeconfig.dev.json
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\ref\GrpcServicedemo.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\GrpcServicedemo.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\FluentAssertions.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Google.Protobuf.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Core.Api.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.Client.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Grpc.Net.Common.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Humanizer.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.AssemblyReference.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.AssemblyInfoInputs.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.AssemblyInfo.cs
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.CoreCompileInputs.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.MvcApplicationPartsAssemblyInfo.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\scopedcss\bundle\GrpcServicedemo.styles.css
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\staticwebassets\GrpcServicedemo.StaticWebAssets.Manifest.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.RazorTargetAssemblyInfo.cache
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.csproj.CopyComplete
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\ref\GrpcServicedemo.dll
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.pdb
+E:\SE1403\PRN231\LightNovelMicroservice\GrpcServicedemo\GrpcServicedemo\obj\Debug\net5.0\GrpcServicedemo.genruntimeconfig.cache
