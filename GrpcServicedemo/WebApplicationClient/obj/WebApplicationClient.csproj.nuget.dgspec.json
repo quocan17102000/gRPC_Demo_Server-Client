@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj": {}
+    "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj": {}
   },
   "projects": {
-    "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj": {
+    "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
+        "projectUniqueName": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
         "projectName": "WebApplicationClient",
-        "projectPath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
+        "projectPath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
         "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-        "outputPath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\obj\\",
+        "outputPath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config",

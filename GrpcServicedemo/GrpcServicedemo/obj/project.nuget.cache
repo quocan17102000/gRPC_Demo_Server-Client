@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xzW08OMhumv7utjUFSA0BV7c5Kan3jafvFABkcsvWwOQK3l1rTOjIKi10gEpcYHaCO+hml5IeE7yleALJj7ZRQ==",
+  "dgSpecHash": "xM9T3RktF+D5gk7tbNr549NZX6swxjNGDckF0NMOB/6Z0zaGshfilrKNIJUen9dfhmOvQ+p0dURFKN1Jw9RZqQ==",
   "success": true,
-  "projectFilePath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
+  "projectFilePath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NITRO 5\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
     "C:\\Users\\NITRO 5\\.nuget\\packages\\google.protobuf\\3.11.2\\google.protobuf.3.11.2.nupkg.sha512",

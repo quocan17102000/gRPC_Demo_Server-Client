@@ -12,7 +12,7 @@ service Greeter {
 
 
 service EmployeeCRUD {
-	rpc SayHello (HelloRequest) returns (HelloReply);
+//rpc SayHello (HelloRequest) returns (HelloReply);
 rpc SelectAll (Empty) returns (Employees);
 rpc SelectByID (EmployeeFilter) returns (Employee);
 rpc Insert (Employee) returns (Empty);

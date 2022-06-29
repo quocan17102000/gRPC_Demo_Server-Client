@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj": {}
+    "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj": {}
   },
   "projects": {
-    "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj": {
+    "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
+        "projectUniqueName": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
         "projectName": "GrpcServicedemo",
-        "projectPath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
+        "projectPath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\GrpcServicedemo.csproj",
         "packagesPath": "C:\\Users\\NITRO 5\\.nuget\\packages\\",
-        "outputPath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\GrpcServicedemo\\obj\\",
+        "outputPath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\GrpcServicedemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO 5\\AppData\\Roaming\\NuGet\\NuGet.Config",

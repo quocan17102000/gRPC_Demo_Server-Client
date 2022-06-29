@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdAlX9OUD76hRMMAyqmTdh4Jm+xKM9vXJ90o42xbgUKC3HVAaBliUfE8h208ey/ATs+QNQVLFtorPEOXoIUGKA==",
+  "dgSpecHash": "AUQjYlmJbb5an04w4Zx8LG94HLXJCKic5ZBbLsYEnDLeidDU6MHCHAOC9kxWV1deRJCXoXBfzcHdth+D8rvncA==",
   "success": true,
-  "projectFilePath": "E:\\SE1403\\PRN231\\LightNovelMicroservice\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
+  "projectFilePath": "E:\\SE1403\\PRN231\\gRPC_Demo_Server-Client\\GrpcServicedemo\\WebApplicationClient\\WebApplicationClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NITRO 5\\.nuget\\packages\\google.protobuf\\3.17.3\\google.protobuf.3.17.3.nupkg.sha512",
     "C:\\Users\\NITRO 5\\.nuget\\packages\\grpc.core.api\\2.39.1\\grpc.core.api.2.39.1.nupkg.sha512",

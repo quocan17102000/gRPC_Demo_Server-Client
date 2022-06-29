@@ -1,0 +1,2 @@
+obj\Debug\net5.0/EmployeeCRUD.cs \
+obj\Debug\net5.0/EmployeeCRUDGrpc.cs: Protos/EmployeeCRUD.proto

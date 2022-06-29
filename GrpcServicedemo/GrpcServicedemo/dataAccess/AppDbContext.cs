@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace GrpcServicedemo.dataAccess
 {
-    public partial class GrpcdemoContext : DbContext
+    public partial class AppDbContext : DbContext
     {
-        public GrpcdemoContext()
+        public AppDbContext()
         {
         }
 
-        public GrpcdemoContext(DbContextOptions<GrpcdemoContext> options)
+        public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }
@@ -23,7 +23,7 @@ namespace GrpcServicedemo.dataAccess
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-O3NQBKB;Database=Grpcdemo;uid=sa;pwd=123456;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-J6KKR6V;Database=Grpcdemo;uid=sa;pwd=admin@123;");
             }
         }
 

@@ -8,8 +8,8 @@ namespace GrpcServicedemo.Services
     public class EmployeeCRUDService : EmployeeCRUD.EmployeeCRUDBase
     {
         private readonly ILogger<EmployeeCRUDService> _logger;
-        private dataAccess.GrpcdemoContext db = null;
-        public EmployeeCRUDService(ILogger<EmployeeCRUDService> logger, dataAccess.GrpcdemoContext db)
+        private dataAccess.AppDbContext db = null;
+        public EmployeeCRUDService(ILogger<EmployeeCRUDService> logger, dataAccess.AppDbContext db)
         {
             _logger = logger;
             this.db = db;
@@ -28,13 +28,13 @@ namespace GrpcServicedemo.Services
             responseData.Items.AddRange(query.ToArray());
             return Task.FromResult(responseData);
         }
-        public override Task<HelloReply> SayHello(HelloRequest requestData, ServerCallContext context)
-        {
-            return Task.FromResult(new HelloReply
-            {
-                Message = "hello" + requestData.Name
-            });
-        }
+        //public override Task<HelloReply> SayHello(HelloRequest requestData, ServerCallContext context)
+        //{
+        //    return Task.FromResult(new HelloReply
+        //    {
+        //        Message = "hello" + requestData.Name
+        //    });
+        //}
 
         public override Task<Employee> SelectByID(EmployeeFilter requestData, ServerCallContext context)
         {
